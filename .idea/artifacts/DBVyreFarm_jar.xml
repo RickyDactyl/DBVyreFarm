@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DBVyreFarm:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="DBVyreFarm.jar">
+      <element id="module-output" name="DBVyreFarm" />
+    </root>
+  </artifact>
+</component>
